@@ -1,0 +1,28 @@
+|-Service Delivery
+|-Incident Management
+|-Service Requests
+|-Problem Management
+|-ComDIR
+|-Service Catalog
+|-Reports
+|-Social
+|-Change Management
+|	|-Change Forms
+|	|	|-Apply Patch to Environment
+|	|	|-Decomission ICT Hardware
+|	|	|-Environment Close
+|	|	|-ICT Server Request
+|	|	|-Request for Change (RFC)
+|	|	|-Standard Change
+|	|-Test Change Calendar
+|	|-Change Sharepoint Site
+|	|-Create New Change
+|	|-Approved
+|	|-Endorsed
+|	|-Open
+|	|-Rejected
+|	|-Scheduled
+|	|-Closed
+|	|-All
+|	|-Overview
+|-System UI
