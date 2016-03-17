@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/danijeljames/helpdesk.png?label=ready&title=Ready)](https://waffle.io/danijeljames/helpdesk)
 
 
 ## License
